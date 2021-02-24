@@ -6,9 +6,17 @@ namespace DCS
 {
     class UserValidation : IUserValidation
     {
+        public int ID{ get; set; }
         public bool ValidateEntryRequest(int id)
         {
-            return true;
+            if (id == ID)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

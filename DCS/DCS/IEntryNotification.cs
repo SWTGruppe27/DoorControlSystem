@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DCS
 {
-    interface IEntryNotification
+    public interface IEntryNotification
     {
         void NotifyEntryGranted(int id);
     }

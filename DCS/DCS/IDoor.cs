@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DCS
 {
-    interface IDoor
+    public interface IDoor
     {
         void Open();
         void Close();

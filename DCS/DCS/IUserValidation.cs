@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DCS
 {
-    interface IUserValidation
+    public interface IUserValidation
     {
         bool ValidateEntryRequest(int id);
     }

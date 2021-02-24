@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.exe
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.deps.json
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.runtimeconfig.json
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.runtimeconfig.dev.json
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.dll
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\ref\DCS.dll
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\bin\Debug\net5.0\DCS.pdb
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.csprojAssemblyReference.cache
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.AssemblyInfo.cs
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.dll
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\ref\DCS.dll
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.pdb
+C:\Users\User\Documents\Aarhus Universitet\4. semester\Software test\Lab Exercise\Lab 4\DCS\DCS\DCS\obj\Debug\net5.0\DCS.genruntimeconfig.cache
