@@ -8,5 +8,6 @@ namespace DCS
     {
         void RequestEntry(int id);
         void DoorOpened();
+        void DoorClosed();
     }
 }

@@ -6,6 +6,19 @@ namespace DCS
 {
     class DoorControl : IDoorControl
     {
-        public void 
+        public void RequestEntry(int id)
+        {
+
+        }
+
+        public void DoorOpened()
+        {
+
+        }
+
+        public void DoorClosed()
+        {
+
+        }
     }
 }
